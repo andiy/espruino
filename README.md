@@ -1,6 +1,6 @@
 # Modules for Espruino
 
-Collection of useful modules, mainly developed for my *EpsruinoWIFI*, but possibly usefull Espruino and EspruinoPICO, too.
+Collection of useful modules, mainly developed for my *EpsruinoWIFI*, but possibly usefull for Espruino and EspruinoPICO, too.
 
 ## Installation
 Well, just download the files you need.
