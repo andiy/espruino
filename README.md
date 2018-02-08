@@ -11,6 +11,6 @@ Well, just download the files you need.
 * [**Qespruino_SPI**](https://github.com/andiy/espruino/wiki/Qespruino_SPI) SPI performance improvement using DMA
 
 ## License
-* MIT see [LICENSE]
+* MIT see [LICENSE](LICENSE)
 
 
