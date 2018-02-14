@@ -1,5 +1,5 @@
 
-
+//
 // grant flat arraybuffer  http://forum.espruino.com/conversations/316409/#comment14077573
 if (E.newArrayBuffer===undefined) E.newArrayBuffer= function(bytes){
 
